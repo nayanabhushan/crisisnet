@@ -76,7 +76,7 @@ During severe weather events, flash floods, seismic events, or power grid failur
 
 1. **Navigate to the project folder:**
    ```powershell
-   cd "C:\Users\hp\.gemini\antigravity\scratch\crisisnet"
+   cd "C:\Users\hp\.gemini\Kriticalthinkers\scratch\crisisnet"
    ```
 
 2. **Start the local development server:**
