@@ -85,7 +85,7 @@ During severe weather events, flash floods, seismic events, or power grid failur
    ```
 
 3. **Open the web application:**
-   Navigate to [http://127.0.0.1:5173/](http://127.0.0.1:5173/) in any browser.
+   Navigate to (https://crisisnet-seven.vercel.app/) in any browser.
 
 ---
 
